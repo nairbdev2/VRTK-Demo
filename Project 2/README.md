@@ -19,7 +19,7 @@ Setting up Project 2 Page
 # Nathan He
 
 # Brian DeVilla
-* [Office Chair] (https://sketchfab.com/3d-models/office-chair-db03012c3c484314a480b4137da8eb30)
+* [Office Chair](https://sketchfab.com/3d-models/office-chair-db03012c3c484314a480b4137da8eb30)
 * [Java Icon Img](https://www.pinclipart.com/pindetail/iJmJRJ_vector-steam-java-developer-java-icon-png-clipart/)
 
 # Yushen Li
