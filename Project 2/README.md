@@ -19,6 +19,7 @@ Setting up Project 2 Page
 # Nathan He
 
 # Brian DeVilla
+* [Java Icon](https://www.pinclipart.com/pindetail/iJmJRJ_vector-steam-java-developer-java-icon-png-clipart/)
 
 # Yushen Li
 
