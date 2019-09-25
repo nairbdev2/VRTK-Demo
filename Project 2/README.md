@@ -20,6 +20,7 @@ Setting up Project 2 Page
 
 # Brian DeVilla
 * [Office Chair Model](https://sketchfab.com/3d-models/office-chair-db03012c3c484314a480b4137da8eb30)
+* [Gaming Laptop](https://sketchfab.com/3d-models/asus-gaming-5889a20ef39f491784b01c542dd23046)
 * [Java Icon Img](https://www.pinclipart.com/pindetail/iJmJRJ_vector-steam-java-developer-java-icon-png-clipart/)
 
 # Yushen Li
