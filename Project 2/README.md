@@ -20,7 +20,8 @@ Setting up Project 2 Page
 
 # Brian DeVilla
 * [Office Chair Model](https://sketchfab.com/3d-models/office-chair-db03012c3c484314a480b4137da8eb30)
-* [Gaming Laptop](https://sketchfab.com/3d-models/asus-gaming-5889a20ef39f491784b01c542dd23046)
+* [Samsung Laptop Model](https://sketchfab.com/3d-models/samsung-series-9-notebook-1768-2163e14e9b8c427698e8aa80923a6241)
+* [NCR Veteran Ranger Bobblehead Model](https://sketchfab.com/3d-models/ncr-veteran-ranger-bobblehead-1b47d75b4e5a4548b5cb41aae45f8dcd)
 * [Java Icon Img](https://www.pinclipart.com/pindetail/iJmJRJ_vector-steam-java-developer-java-icon-png-clipart/)
 
 # Yushen Li
