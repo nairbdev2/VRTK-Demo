@@ -31,6 +31,7 @@ Setting up Project 2 Page
 * [Office chair](https://sketchfab.com/3d-models/office-chair-41973aa1808d4a13b84c24497fc77c63)
 * [Book](https://sketchfab.com/3d-models/the-history-of-the-future-book-22014d859c184f678b9807ea78f67cbe#download)
 * [Binder](https://sketchfab.com/3d-models/ring-binder-a0026e7d1b244b9a9223daf4223c9372#download)
+* [Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779#download)
 
 
 
