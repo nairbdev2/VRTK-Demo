@@ -29,7 +29,7 @@ Setting up Project 2 Page
 # Yushen Li
 * [Laptop Model](https://sketchfab.com/3d-models/laptop-d7459b8ceaab4ce09230cee0b85b5e4b)
 * [Office chair](https://sketchfab.com/3d-models/office-chair-41973aa1808d4a13b84c24497fc77c63)
-* [Book](https://sketchfab.com/3d-models/book-616e0dd72bf04503a350d774f48a6e6c)
+* [Book](https://sketchfab.com/3d-models/the-history-of-the-future-book-22014d859c184f678b9807ea78f67cbe#download)
 
 
 
