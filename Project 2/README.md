@@ -17,15 +17,15 @@ Setting up Project 2 Page
 ## Resource Links Used
 
 # Nathan He
-* [iPhone XS Max] (https://sketchfab.com/3d-models/apple-iphone-xs-max-08e76b5bd30847f6a23d4748b85ef62b)
-* [Basketball] (https://sketchfab.com/3d-models/basketball-19f76a0df81747369acf46406b36afa6)
-* [Mug] (https://sketchfab.com/3d-models/mug-gavron-879fca104c404b18b98ed745fd1e6629)
-* [Bitcoin Sign] (https://sketchfab.com/3d-models/bitcoin-cash-mesh-fbx-135a24271b9c4846a46e2943e6860a37)
-* [Basketball Board] (https://sketchfab.com/3d-models/basketball-table-5eee9d9172dd4738adc6a1916f53eb1f)
-* [Dual Monitor Display] (https://sketchfab.com/3d-models/monitor-screen-display-5f698816ef9f4a39b63601baa8f6ea29)
-* [Backpack] (https://sketchfab.com/3d-models/backpack-b9e73f29c3c54b06870cddc6ae4bf03b)
-* [Starbucks Coffee] (https://sketchfab.com/3d-models/starbucks-grande-coffee-cup-caution-hot-adf1013df0d24037a506cd9708ddbc28)
-* [Keyboard] (https://sketchfab.com/3d-models/keyboard-7e293011e8de4137bbb27dcbe1eaa26f)
+* [iPhone XS Max](https://sketchfab.com/3d-models/apple-iphone-xs-max-08e76b5bd30847f6a23d4748b85ef62b)
+* [Basketball Board](https://sketchfab.com/3d-models/basketball-table-5eee9d9172dd4738adc6a1916f53eb1f)
+* [Basketball](https://sketchfab.com/3d-models/basketball-19f76a0df81747369acf46406b36afa6)
+* [Mug](https://sketchfab.com/3d-models/mug-gavron-879fca104c404b18b98ed745fd1e6629)
+* [Bitcoin Sign](https://sketchfab.com/3d-models/bitcoin-cash-mesh-fbx-135a24271b9c4846a46e2943e6860a37)
+* [Dual Monitor Display](https://sketchfab.com/3d-models/monitor-screen-display-5f698816ef9f4a39b63601baa8f6ea29)
+* [Keyboard](https://sketchfab.com/3d-models/keyboard-7e293011e8de4137bbb27dcbe1eaa26f)
+* [Backpack](https://sketchfab.com/3d-models/backpack-b9e73f29c3c54b06870cddc6ae4bf03b)
+* [Starbucks Coffee](https://sketchfab.com/3d-models/starbucks-grande-coffee-cup-caution-hot-adf1013df0d24037a506cd9708ddbc28)
 
 
 # Brian DeVilla
