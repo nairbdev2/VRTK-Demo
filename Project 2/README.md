@@ -33,6 +33,8 @@ Setting up Project 2 Page
 * [Binder](https://sketchfab.com/3d-models/ring-binder-a0026e7d1b244b9a9223daf4223c9372)
 * [Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779)
 * [Donut and mug](https://sketchfab.com/3d-models/donuts-mug-and-plate-f07ce427ea264de18310d4d848b37c6e)
+* [Trash_bin](https://sketchfab.com/3d-models/abstract-trashcan-283b042d65ac472aab0d389193eba8c1)
+
 
 
 
