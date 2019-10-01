@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5016de9535d434be989aa1051a5d95be
+guid: 25397dd177f124b7abb5200a747e5950
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
@@ -7,13 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Platform_Texture
-    second: {fileID: 2100000, guid: 4b6ece552ce044be28964aa61eb85891, type: 2}
+      name: Material.001
+    second: {fileID: 2100000, guid: 18460ec6307084a089a74ac6adcfe2d6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: RamenStall_Texture
-    second: {fileID: 2100000, guid: 5e0b5be73363942a4b921126c1efbd62, type: 2}
+      name: Material.002
+    second: {fileID: 2100000, guid: 43705611ed9c9419dbd238beed1c849b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: a2c4ae88e110e4448babd83c89e91d4c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
