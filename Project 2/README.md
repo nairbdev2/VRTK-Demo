@@ -36,6 +36,7 @@ Setting up Project 2 Page
 * [Trash_bin](https://sketchfab.com/3d-models/abstract-trashcan-283b042d65ac472aab0d389193eba8c1)
 * [Box man](https://sketchfab.com/3d-models/box-man-c787cace300e486eb3cd740235aa0f6a)
 * [Clock](https://sketchfab.com/3d-models/clock-5d51a5e31ee84792a18046a2a8df8bdd)
+* [Bag](https://sketchfab.com/3d-models/backpack-5655596f9efe47deb09df57a79b44e04)
 
 
 
