@@ -34,6 +34,7 @@ Setting up Project 2 Page
 * [Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779)
 * [Donut and mug](https://sketchfab.com/3d-models/donuts-mug-and-plate-f07ce427ea264de18310d4d848b37c6e)
 * [Trash_bin](https://sketchfab.com/3d-models/abstract-trashcan-283b042d65ac472aab0d389193eba8c1)
+* [Box man](https://sketchfab.com/3d-models/box-man-c787cace300e486eb3cd740235aa0f6a)
 
 
 
