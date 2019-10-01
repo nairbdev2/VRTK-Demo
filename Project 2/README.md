@@ -26,7 +26,7 @@ Setting up Project 2 Page
 * [Keyboard](https://sketchfab.com/3d-models/keyboard-7e293011e8de4137bbb27dcbe1eaa26f)
 * [Backpack](https://sketchfab.com/3d-models/backpack-b9e73f29c3c54b06870cddc6ae4bf03b)
 * [Starbucks Coffee](https://sketchfab.com/3d-models/starbucks-grande-coffee-cup-caution-hot-adf1013df0d24037a506cd9708ddbc28)
-
+* [Office Chair](https://sketchfab.com/3d-models/office-chair-f4c3a936dae745e08405cf2fd820b89c)
 
 # Brian DeVilla
 * [Office Chair Model](https://sketchfab.com/3d-models/office-chair-db03012c3c484314a480b4137da8eb30)
