@@ -29,9 +29,10 @@ Setting up Project 2 Page
 # Yushen Li
 * [Laptop Model](https://sketchfab.com/3d-models/laptop-d7459b8ceaab4ce09230cee0b85b5e4b)
 * [Office chair](https://sketchfab.com/3d-models/office-chair-41973aa1808d4a13b84c24497fc77c63)
-* [Book](https://sketchfab.com/3d-models/the-history-of-the-future-book-22014d859c184f678b9807ea78f67cbe#download)
-* [Binder](https://sketchfab.com/3d-models/ring-binder-a0026e7d1b244b9a9223daf4223c9372#download)
-* [Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779#download)
+* [Book](https://sketchfab.com/3d-models/the-history-of-the-future-book-22014d859c184f678b9807ea78f67cbe)
+* [Binder](https://sketchfab.com/3d-models/ring-binder-a0026e7d1b244b9a9223daf4223c9372)
+* [Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779)
+* [Donut and mug](https://sketchfab.com/3d-models/donuts-mug-and-plate-f07ce427ea264de18310d4d848b37c6e)
 
 
 
