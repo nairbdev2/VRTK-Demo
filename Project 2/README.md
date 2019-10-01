@@ -32,6 +32,7 @@ Setting up Project 2 Page
 * [Java Icon Img](https://www.pinclipart.com/pindetail/iJmJRJ_vector-steam-java-developer-java-icon-png-clipart/)
 * [Onmyoji Wallpaper Img](https://www.deviantart.com/asml30/art/Onmyoji-night-walk-721801123)
 * [.poiyomi Shader](https://github.com/poiyomi/PoiyomiToonShader/releases)
+* [Asian Lofi Beats Ambient Sound](https://www.youtube.com/watch?v=w5vro7IygOc)
 # Yushen Li
 * [Laptop Model](https://sketchfab.com/3d-models/laptop-d7459b8ceaab4ce09230cee0b85b5e4b)
 * [Office chair](https://sketchfab.com/3d-models/office-chair-41973aa1808d4a13b84c24497fc77c63)
