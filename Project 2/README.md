@@ -28,6 +28,7 @@ Setting up Project 2 Page
 * [Japanese Ramen Stall Model](https://sketchfab.com/3d-models/japanese-ramen-stall-2e3ea2a141324c29be0a20d3bfe0c90d)
 * [Udon Meal Model](https://sketchfab.com/3d-models/udon-meal-aeadafce557445df8d852109f2794f6a)
 * [TV Sony Model](https://sketchfab.com/3d-models/tv-sony-bravia-kdl-40re353-free-1daed79d27b644f7845dfbb9e5f20ce3)
+* [Book of Constellations Model](https://sketchfab.com/3d-models/book-of-constellations-228c3ccd5b43497ea3f649d0b9e076bc)
 * [Java Icon Img](https://www.pinclipart.com/pindetail/iJmJRJ_vector-steam-java-developer-java-icon-png-clipart/)
 * [Onmyoji Wallpaper Img](https://www.deviantart.com/asml30/art/Onmyoji-night-walk-721801123)
 * [.poiyomi Shader](https://github.com/poiyomi/PoiyomiToonShader/releases)
