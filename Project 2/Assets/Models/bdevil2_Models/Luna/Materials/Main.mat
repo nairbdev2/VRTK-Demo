@@ -403,7 +403,7 @@ Material:
     - shader_properties_label_file: 0
     m_Colors:
     - _AngleForwardDirection: {r: 0, g: 0, b: 1, a: 0}
-    - _Color: {r: 1, g: 0.8816934, b: 0, a: 1}
+    - _Color: {r: 1, g: 0.8254717, b: 0.88359874, a: 1}
     - _DissolveEdgeColor: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveEndPoint: {r: 0, g: 1, b: 0, a: 0}
     - _DissolvePan: {r: 0, g: 0, b: 0, a: 0}
