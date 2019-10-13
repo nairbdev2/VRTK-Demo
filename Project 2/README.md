@@ -11,7 +11,7 @@ Setting up Project 2 Page
 * Go to Scenes and double-click on 'CS428 P2 Alpha'
 
 ## Alpha Preview Video
-
+* [Alpha Video](https://www.youtube.com/watch?v=D2FkA_nrEeQ)
 ## Final Project Video
 
 ## Resource Links Used
