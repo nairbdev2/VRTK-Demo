@@ -31,13 +31,14 @@ Setting up Project 2 Page
   * [Ambient Sound - Midsummer Madness Instrumental](https://www.youtube.com/watch?v=lLLwAwNH5Gk)
   
   Part B Models + Links
+  * [Blue Radio](https://sketchfab.com/3d-models/radio-abc4f19e438c4fc282b994f64efa7ee8)
   * [Retractable Pen](https://sketchfab.com/3d-models/retractable-pen-click-pen-0fcbd52b43214a8a8bd32a80b1825674)
   * [Newton's Cradle](https://sketchfab.com/3d-models/newton-craddle-64e2753a06b941408feaf1e012329bb9)
   * [Composition Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779)
   * [Mouse](https://sketchfab.com/3d-models/mouse-3eaaf9f9b08242f193be433a6128c003)
-  * [Toy Car](https://sketchfab.com/3d-models/samosval-2bdf333eccd1448aaeb601f88f77e0f4)
   
   Part A Models + Links
+  * [Toy Car](https://sketchfab.com/3d-models/samosval-2bdf333eccd1448aaeb601f88f77e0f4)
 
 # Brian DeVilla
   Part C Models + Links
@@ -57,6 +58,7 @@ Setting up Project 2 Page
   * [Asian Lofi Beats Ambient Sound](https://www.youtube.com/watch?v=w5vro7IygOc)
   
   Part B Models + Links
+  * [Brown Radio](https://sketchfab.com/3d-models/1938-delco-radio-434c8654f5784119bba5bcc8041ecffc)
   
   Part A Models + Links
   
@@ -76,6 +78,7 @@ Setting up Project 2 Page
   * [Ambient sound](https://www.youtube.com/watch?v=_0lQw595WiQ)
   
   Part B Models + Links
+  * [White Radio](https://sketchfab.com/3d-models/portal-radio-a-prop-72c9875348c84163b34e4012d5b39307)
   
   Part A Models + Links
 
