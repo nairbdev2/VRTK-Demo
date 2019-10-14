@@ -35,7 +35,7 @@ Setting up Project 2 Page
   * [Newton's Cradle](https://sketchfab.com/3d-models/newton-craddle-64e2753a06b941408feaf1e012329bb9)
   * [Composition Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779)
   * [Mouse](https://sketchfab.com/3d-models/mouse-3eaaf9f9b08242f193be433a6128c003)
-  * 
+  * [Toy Car](https://sketchfab.com/3d-models/samosval-2bdf333eccd1448aaeb601f88f77e0f4)
   
   Part A Models + Links
 
