@@ -31,8 +31,18 @@ Setting up Project 2 Page
   * [Ambient Sound - Midsummer Madness Instrumental](https://www.youtube.com/watch?v=lLLwAwNH5Gk)
   
   Part B Models + Links
+  * [Blue Radio](https://sketchfab.com/3d-models/radio-abc4f19e438c4fc282b994f64efa7ee8)
+  * [Retractable Pen](https://sketchfab.com/3d-models/retractable-pen-click-pen-0fcbd52b43214a8a8bd32a80b1825674)
+  * [Newton's Cradle](https://sketchfab.com/3d-models/newton-craddle-64e2753a06b941408feaf1e012329bb9)
+  * [Composition Notebook](https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779)
+  * [Mouse](https://sketchfab.com/3d-models/mouse-3eaaf9f9b08242f193be433a6128c003)
   
   Part A Models + Links
+  * [Toy Car](https://sketchfab.com/3d-models/samosval-2bdf333eccd1448aaeb601f88f77e0f4)
+  * [Katana](https://sketchfab.com/3d-models/katana-5bc192b777544d58a185845ed495597f)
+  * [Rubber Duck](https://sketchfab.com/3d-models/rubber-duck-a84cecb600c04eeba60d02f99b8b154b)
+  * [Money](https://sketchfab.com/3d-models/wad-2c21f18251184d5091f7f03b429834ba)
+  * [Halloween Pumpkin](https://sketchfab.com/3d-models/halloween-pumpkin-abb8d12f13b44c6686628abde758bf1a)
 
 # Brian DeVilla
   Part C Models + Links
@@ -52,9 +62,20 @@ Setting up Project 2 Page
   * [Asian Lofi Beats Ambient Sound](https://www.youtube.com/watch?v=w5vro7IygOc)
   
   Part B Models + Links
+  * [Brown Radio Model](https://sketchfab.com/3d-models/1938-delco-radio-434c8654f5784119bba5bcc8041ecffc)
+  * [Ray Gun Model](https://sketchfab.com/3d-models/pilim-week-challenge-multy-purpose-raygun-low-ca58587e09c94b7cb55ec4f0c1b5461f)
+  * [Cow Model](https://sketchfab.com/3d-models/cow-1703672ed68f417698ea017af3066d61)
+  * [Toy Soldier Model](https://sketchfab.com/3d-models/toy-soldier-cacf0d85cfb2460294da4778a36760e3)
+  * [Alien Model](https://sketchfab.com/3d-models/alien-fanart-09cc528fe20e43d4a0b0f68e66125984)
+  * [Gameboy Pokemon Red Sound](https://www.youtube.com/watch?v=2QeiH70AUU4)
   
   Part A Models + Links
-  
+  * [Jeep Model](https://sketchfab.com/3d-models/jeep-willys-50fae79d1fcf48bcb5e2b453c2deef13)
+  * [Gameboy Model](https://sketchfab.com/3d-models/gameboy-pokemon-1hourchallenge-0f2b0ce9c5c44499b2f00c128b3e36b9)
+  * [Ainz Ooal Gown Model](https://sketchfab.com/3d-models/ainz-ooal-gown-e62df306954144fbb613c6fc3b04e682)
+  * [Skeleton Soldier Model](https://sketchfab.com/3d-models/skeleton-soldier-4517255f15d04a918653c67685cec645)
+  * [Astronaut Model](https://sketchfab.com/3d-models/astronaut-720532dec35a47799efe33bcf62fb393)
+    
 # Yushen Li
   Part C Models + Links
   * [Laptop Model](https://sketchfab.com/3d-models/laptop-d7459b8ceaab4ce09230cee0b85b5e4b)
@@ -71,6 +92,7 @@ Setting up Project 2 Page
   * [Ambient sound](https://www.youtube.com/watch?v=_0lQw595WiQ)
   
   Part B Models + Links
+  * [White Radio](https://sketchfab.com/3d-models/portal-radio-a-prop-72c9875348c84163b34e4012d5b39307)
   
   Part A Models + Links
 
