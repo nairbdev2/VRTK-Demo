@@ -40,7 +40,7 @@ Setting up Project 2 Page
   Part A Models + Links
   * [Toy Car](https://sketchfab.com/3d-models/samosval-2bdf333eccd1448aaeb601f88f77e0f4)
   * [Katana](https://sketchfab.com/3d-models/katana-5bc192b777544d58a185845ed495597f)
-  *
+  * [Rubber Duck](https://sketchfab.com/3d-models/rubber-duck-a84cecb600c04eeba60d02f99b8b154b)
 
 # Brian DeVilla
   Part C Models + Links
