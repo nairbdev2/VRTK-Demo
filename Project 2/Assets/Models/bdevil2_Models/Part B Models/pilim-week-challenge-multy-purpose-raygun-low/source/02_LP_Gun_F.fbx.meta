@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: d2d4ea9372ca3481dbcc481d9de372eb
+guid: 23e575fc791754d42b0492cb2b8d685b
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coolant
+    second: {fileID: 2100000, guid: c7fc89bc134614671995f867af01acd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LP_MPG
+    second: {fileID: 2100000, guid: b635250ff6a384984b2ca904aaa91f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plasma
+    second: {fileID: 2100000, guid: 9aad1431e45454b43b66e7ecc36673b8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
