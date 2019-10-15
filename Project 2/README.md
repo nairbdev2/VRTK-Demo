@@ -68,6 +68,9 @@ Setting up Project 2 Page
   Part A Models + Links
   * [Jeep Model](https://sketchfab.com/3d-models/jeep-willys-50fae79d1fcf48bcb5e2b453c2deef13)
   * [Gameboy Model](https://sketchfab.com/3d-models/gameboy-pokemon-1hourchallenge-0f2b0ce9c5c44499b2f00c128b3e36b9)
+  * [Ainz Ooal Gown Model](https://sketchfab.com/3d-models/ainz-ooal-gown-e62df306954144fbb613c6fc3b04e682)
+  * [Skeleton Soldier Model](https://sketchfab.com/3d-models/skeleton-soldier-4517255f15d04a918653c67685cec645)
+  * [Astronaut Model](https://sketchfab.com/3d-models/astronaut-720532dec35a47799efe33bcf62fb393)
     
 # Yushen Li
   Part C Models + Links
