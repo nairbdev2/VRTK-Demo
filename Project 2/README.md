@@ -58,10 +58,16 @@ Setting up Project 2 Page
   * [Asian Lofi Beats Ambient Sound](https://www.youtube.com/watch?v=w5vro7IygOc)
   
   Part B Models + Links
-  * [Brown Radio](https://sketchfab.com/3d-models/1938-delco-radio-434c8654f5784119bba5bcc8041ecffc)
-  
+  * [Brown Radio Model](https://sketchfab.com/3d-models/1938-delco-radio-434c8654f5784119bba5bcc8041ecffc)
+  * [Ray Gun Model](https://sketchfab.com/3d-models/pilim-week-challenge-multy-purpose-raygun-low-ca58587e09c94b7cb55ec4f0c1b5461f)
+  * [Cow Model](https://sketchfab.com/3d-models/cow-1703672ed68f417698ea017af3066d61)
+  * [Toy Soldier Model](https://sketchfab.com/3d-models/toy-soldier-cacf0d85cfb2460294da4778a36760e3)
+  * [Alien Model](https://sketchfab.com/3d-models/alien-fanart-09cc528fe20e43d4a0b0f68e66125984)
+  * [Gameboy Pokemon Red Sound](https://www.youtube.com/watch?v=2QeiH70AUU4)
   Part A Models + Links
-  
+  * [Jeep Model](https://sketchfab.com/3d-models/jeep-willys-50fae79d1fcf48bcb5e2b453c2deef13)
+  * [Gameboy Model](https://sketchfab.com/3d-models/gameboy-pokemon-1hourchallenge-0f2b0ce9c5c44499b2f00c128b3e36b9)
+    
 # Yushen Li
   Part C Models + Links
   * [Laptop Model](https://sketchfab.com/3d-models/laptop-d7459b8ceaab4ce09230cee0b85b5e4b)
