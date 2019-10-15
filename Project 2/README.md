@@ -32,7 +32,7 @@ Setting up Project 2 Page
   
   Part B Models + Links
   * [Blue Radio](https://sketchfab.com/3d-models/radio-abc4f19e438c4fc282b994f64efa7ee8)
-  * [Retractable Pen](https://sketchfab.com/3d-models/retractable-pen-click-pen-0fcbd52b43214a8a8bd32a80b1825674)
+  * [Tennis Ball](https://sketchfab.com/3d-models/tennis-ball-edc344dcc65440ea97b5eae84f1957a4)
   * [Newton's Cradle](https://sketchfab.com/3d-models/newton-craddle-64e2753a06b941408feaf1e012329bb9)
   * [Office Bin](https://sketchfab.com/3d-models/office-bin-bb540fc9fcb04a5aa13a5d9b72918f8f)
   * [Mouse](https://sketchfab.com/3d-models/mouse-3eaaf9f9b08242f193be433a6128c003)
