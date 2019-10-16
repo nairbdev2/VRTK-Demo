@@ -93,7 +93,18 @@ Setting up Project 2 Page
   
   Part B Models + Links
   * [White Radio](https://sketchfab.com/3d-models/portal-radio-a-prop-72c9875348c84163b34e4012d5b39307)
+  * [Kirby Model](https://sketchfab.com/3d-models/fan-model-kirby-159e9a80a0e04ab49ea227fa04ca775d)
+  * [AE86 Model](https://sketchfab.com/3d-models/toyota-ae86-da84f6e22f20486a91b7a012556d80f6)
+  * [Satellite](https://sketchfab.com/3d-models/satellite-comms-4be56951da39429a963ee12140bbff57)
+  * [Journal](https://sketchfab.com/3d-models/journal-1e822119a75a4460b40c6f4001840743)
+  * [Flower](https://sketchfab.com/3d-models/warm-up-10-flowers-56765e04fc754d96a24b332377e64ffb)
+  * [Avenger Sound](https://www.youtube.com/watch?v=CHh-PPs2Wms)
   
   Part A Models + Links
+  * [Diamond Pickaxe](https://sketchfab.com/3d-models/minecraft-diamond-pickaxe-b1bc7d6a3db246d5b47449ae2b2706fd)
+  * [Enderman](https://sketchfab.com/3d-models/minecraft-enderman-216552744553461d960dd0cdf3a0592a)
+  * [Pokeball](https://sketchfab.com/3d-models/pokeball-cb1304c3f9064c0287f749aadaa944d6)
+  * [Rocket](https://sketchfab.com/3d-models/rocket-fa6e126e5da54453b0d1ed3a4a78543a)
+  * [Wii Model](https://sketchfab.com/3d-models/wii-7a96a38cf0684aecb42a58d1e3b65cb9)
 
 
