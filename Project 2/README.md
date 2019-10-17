@@ -71,6 +71,7 @@ Setting up Project 2 Page
   * [This is How We Do It Sound](https://www.youtube.com/watch?v=-pA5UqCL-V4)
   * [Irasshaimase! Sound](https://www.youtube.com/watch?v=HPg0WmDlcoU)
   * [Fallout New Vegas Sound](https://www.youtube.com/watch?v=rKAk6smXcwg)
+  * [Windows 95 Sound](https://www.youtube.com/watch?v=miZHa7ZC6Z0)
   
   Part A Models + Links
   * [Jeep Model](https://sketchfab.com/3d-models/jeep-willys-50fae79d1fcf48bcb5e2b453c2deef13)
