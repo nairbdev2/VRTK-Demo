@@ -1,34 +1,9 @@
 fileFormatVersion: 2
-guid: d641cc9383ca342259a2354aff829dd1
+guid: a47ce524c1731412dbe04b076f177c54
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Blade_mat
-    second: {fileID: 2100000, guid: 9351b6becb1f64df9a6f00e5b1205ca7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Habaki_mat
-    second: {fileID: 2100000, guid: f0e4606e28fa141d8ac610c986dc73d8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Saya_mat
-    second: {fileID: 2100000, guid: 8d441e484e7074710bfbcd25affd1b1c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tsuba_mat
-    second: {fileID: 2100000, guid: a464c9a9959ee48bcb97517d1a449372, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tsuka_mat
-    second: {fileID: 2100000, guid: 32abaeaad54144533ac3e023069a0c19, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
