@@ -68,6 +68,9 @@ Setting up Project 2 Page
   * [Toy Soldier Model](https://sketchfab.com/3d-models/toy-soldier-cacf0d85cfb2460294da4778a36760e3)
   * [Alien Model](https://sketchfab.com/3d-models/alien-fanart-09cc528fe20e43d4a0b0f68e66125984)
   * [Gameboy Pokemon Red Sound](https://www.youtube.com/watch?v=2QeiH70AUU4)
+  * [This is How We Do It Sound](https://www.youtube.com/watch?v=-pA5UqCL-V4)
+  * [Irasshaimase! Sound](https://www.youtube.com/watch?v=HPg0WmDlcoU)
+  * [Fallout New Vegas Sound](https://www.youtube.com/watch?v=rKAk6smXcwg)
   
   Part A Models + Links
   * [Jeep Model](https://sketchfab.com/3d-models/jeep-willys-50fae79d1fcf48bcb5e2b453c2deef13)
