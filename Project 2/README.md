@@ -37,6 +37,11 @@ Setting up Project 2 Page
   * [Office Bin](https://sketchfab.com/3d-models/office-bin-bb540fc9fcb04a5aa13a5d9b72918f8f)
   * [Mouse](https://sketchfab.com/3d-models/mouse-3eaaf9f9b08242f193be433a6128c003)
   
+  * [Sword Sound](https://www.youtube.com/watch?v=BQV5rbBMjCQ)
+  * [Duck Quack Sound](https://www.youtube.com/watch?v=aqCxlxclyzo)
+  * [Mac Start Up Sound](https://www.youtube.com/watch?v=XZ1mpI01evk)
+  * [Newton's Cradle Sound](https://www.youtube.com/watch?v=cbeCceyORCA)
+  
   Part A Models + Links
   * [Toy Car](https://sketchfab.com/3d-models/samosval-2bdf333eccd1448aaeb601f88f77e0f4)
   * [Katana](https://sketchfab.com/3d-models/katana-5bc192b777544d58a185845ed495597f)
