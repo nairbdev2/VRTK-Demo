@@ -107,6 +107,9 @@ Setting up Project 2 Page
   * [Journal](https://sketchfab.com/3d-models/journal-1e822119a75a4460b40c6f4001840743)
   * [Flower](https://sketchfab.com/3d-models/warm-up-10-flowers-56765e04fc754d96a24b332377e64ffb)
   * [Avenger Sound](https://www.youtube.com/watch?v=CHh-PPs2Wms)
+  * [Pokemon Sound](https://www.youtube.com/watch?v=2Jmty_NiaXc)
+  * [Pacman Sound](https://www.youtube.com/watch?v=v2a5yMUmcp0)
+  * [Kirby Sound](https://www.youtube.com/watch?v=_MM8J4SqZ9o)
   
   Part A Models + Links
   * [Diamond Pickaxe](https://sketchfab.com/3d-models/minecraft-diamond-pickaxe-b1bc7d6a3db246d5b47449ae2b2706fd)
