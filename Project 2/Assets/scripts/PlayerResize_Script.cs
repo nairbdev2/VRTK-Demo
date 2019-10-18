@@ -7,11 +7,26 @@ public class PlayerResize_Script : MonoBehaviour
 
 	public GameObject avatar;
 	public float shrinkAvatarSize;
+    public float normalYHeight;
+    public float growAvatarSize;
+    
 
     public void shrinkPlayer()
 	{
 		avatar.transform.position = new Vector3(transform.position.x, shrinkAvatarSize, transform.position.z);
         avatar.transform.localScale += new Vector3(shrinkAvatarSize, shrinkAvatarSize, shrinkAvatarSize);
+    }
+
+    public void normalSizePlayer()
+    {
+        avatar.transform.position = new Vector3(transform.position.x, normalYHeight, transform.position.z);
+        avatar.transform.localScale += new Vector3(1f,1f,1f);
+    }
+
+    public void enlargePlayer()
+    {
+        avatar.transform.position = new Vector3(transform.position.x, growAvatarSize, transform.position.z);
+        avatar.transform.localScale += new Vector3(growAvatarSize, growAvatarSize, growAvatarSize);
     }
 
     protected Vector3? initialLocalPosition;
