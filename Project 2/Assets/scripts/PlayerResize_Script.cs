@@ -20,9 +20,9 @@ public class PlayerResize_Script : MonoBehaviour
             cielingObject.SetActive(true);
         }
 
-        avatarVR.transform.position = new Vector3(transform.position.x, shrinkAvatarSize, transform.position.z);
+        avatarVR.transform.position = new Vector3(transform.position.x, transform.position.y - shrinkAvatarSize, transform.position.z);
         //avatarVR.transform.localScale = new Vector3(shrinkAvatarSize, shrinkAvatarSize, shrinkAvatarSize);
-        avatarSimulated.transform.position = new Vector3(transform.position.x, shrinkAvatarSize, transform.position.z);
+        avatarSimulated.transform.position = new Vector3(transform.position.x, transform.position.y - shrinkAvatarSize, transform.position.z);
         //avatarSimulated.transform.localScale = new Vector3(shrinkAvatarSize, shrinkAvatarSize, shrinkAvatarSize);
     }
 
