@@ -47,6 +47,13 @@ Setting up Project 2 Page
   * [Rubber Duck](https://sketchfab.com/3d-models/rubber-duck-a84cecb600c04eeba60d02f99b8b154b)
   * [Money](https://sketchfab.com/3d-models/wad-2c21f18251184d5091f7f03b429834ba)
   * [Halloween Pumpkin](https://sketchfab.com/3d-models/halloween-pumpkin-abb8d12f13b44c6686628abde758bf1a)
+  
+  Small Scale Models
+  *
+  *
+  *
+  *
+  *
 
 # Brian DeVilla
   Part C Models + Links
@@ -83,6 +90,13 @@ Setting up Project 2 Page
   * [Ainz Ooal Gown Model](https://sketchfab.com/3d-models/ainz-ooal-gown-e62df306954144fbb613c6fc3b04e682)
   * [Skeleton Soldier Model](https://sketchfab.com/3d-models/skeleton-soldier-4517255f15d04a918653c67685cec645)
   * [Astronaut Model](https://sketchfab.com/3d-models/astronaut-720532dec35a47799efe33bcf62fb393)
+  
+  Small Scale Models
+  *
+  *
+  *
+  *
+  *
     
 # Yushen Li
   Part C Models + Links
@@ -117,5 +131,12 @@ Setting up Project 2 Page
   * [Pokeball](https://sketchfab.com/3d-models/pokeball-cb1304c3f9064c0287f749aadaa944d6)
   * [Rocket](https://sketchfab.com/3d-models/rocket-fa6e126e5da54453b0d1ed3a4a78543a)
   * [Wii Model](https://sketchfab.com/3d-models/wii-7a96a38cf0684aecb42a58d1e3b65cb9)
+  
+  Small Scale Models
+  *
+  *
+  *
+  *
+  *
 
 
