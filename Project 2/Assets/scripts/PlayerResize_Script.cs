@@ -5,7 +5,9 @@ using UnityEngine;
 public class PlayerResize_Script : MonoBehaviour
 {
 
-	public GameObject avatar;
+	public GameObject avatarSimulated;
+    public GameObject avatarVR;
+    public GameObject cielingObject;
 	public float shrinkAvatarSize;
     public float normalYHeight;
     public float growAvatarSize;
@@ -13,20 +15,42 @@ public class PlayerResize_Script : MonoBehaviour
 
     public void shrinkPlayer()
 	{
-		avatar.transform.position = new Vector3(transform.position.x, shrinkAvatarSize, transform.position.z);
-        avatar.transform.localScale += new Vector3(shrinkAvatarSize, shrinkAvatarSize, shrinkAvatarSize);
+        if (cielingObject.activeInHierarchy == false)
+        {
+            cielingObject.SetActive(true);
+        }
+
+        avatarVR.transform.position = new Vector3(transform.position.x, shrinkAvatarSize, transform.position.z);
+        //avatarVR.transform.localScale = new Vector3(shrinkAvatarSize, shrinkAvatarSize, shrinkAvatarSize);
+        avatarSimulated.transform.position = new Vector3(transform.position.x, shrinkAvatarSize, transform.position.z);
+        //avatarSimulated.transform.localScale = new Vector3(shrinkAvatarSize, shrinkAvatarSize, shrinkAvatarSize);
     }
 
     public void normalSizePlayer()
     {
-        avatar.transform.position = new Vector3(transform.position.x, normalYHeight, transform.position.z);
-        avatar.transform.localScale += new Vector3(1f,1f,1f);
+        if (cielingObject.activeInHierarchy == false)
+        {
+            cielingObject.SetActive(true);
+        }
+
+        avatarVR.transform.position = new Vector3(transform.position.x, 0f, transform.position.z);
+        //avatarVR.transform.localScale = new Vector3(1f,1f,1f);
+        avatarSimulated.transform.position = new Vector3(transform.position.x, normalYHeight, transform.position.z);
+        //avatarSimulated.transform.localScale = new Vector3(1f, 1f, 1f);
     }
 
     public void enlargePlayer()
     {
-        avatar.transform.position = new Vector3(transform.position.x, growAvatarSize, transform.position.z);
-        avatar.transform.localScale += new Vector3(growAvatarSize, growAvatarSize, growAvatarSize);
+
+        if (cielingObject.activeInHierarchy == true)
+        {
+            cielingObject.SetActive(false);
+        }
+
+        avatarVR.transform.position = new Vector3(transform.position.x, growAvatarSize, transform.position.z);
+        //avatarVR.transform.localScale = new Vector3(growAvatarSize, growAvatarSize, growAvatarSize);
+        avatarSimulated.transform.position = new Vector3(transform.position.x, growAvatarSize, transform.position.z);
+        //avatarSimulated.transform.localScale = new Vector3(growAvatarSize, growAvatarSize, growAvatarSize);
     }
 
     protected Vector3? initialLocalPosition;
@@ -36,13 +60,16 @@ public class PlayerResize_Script : MonoBehaviour
     //Reset the Properties
     public virtual void ResetProperties()
     {
-        if (avatar == null || initialLocalPosition == null)
+        if (avatarVR == null || initialLocalPosition == null || avatarSimulated == null)
         {
             return;
         }
-        avatar.transform.localPosition = (Vector3)initialLocalPosition;
-        avatar.transform.localRotation = initialLocalRotation;
-        avatar.transform.localScale = initialLocalScale;
+        avatarVR.transform.localPosition = (Vector3)initialLocalPosition;
+        avatarVR.transform.localRotation = initialLocalRotation;
+        //avatarVR.transform.localScale = initialLocalScale;
+        avatarSimulated.transform.localPosition = (Vector3)initialLocalPosition;
+        avatarSimulated.transform.localRotation = initialLocalRotation;
+      //avatarSimulated.transform.localScale = initialLocalScale;
     }
 
     protected virtual void Awake()
@@ -52,15 +79,26 @@ public class PlayerResize_Script : MonoBehaviour
 
     protected virtual void CacheSourceTransformData()
     {
-        if (avatar == null)
+        if (avatarVR == null || avatarSimulated == null)
         {
             initialLocalPosition = null;
             return;
         }
 
-        initialLocalPosition = avatar.transform.localPosition;
-        initialLocalRotation = avatar.transform.localRotation;
-        initialLocalScale = avatar.transform.localScale;
+        if (avatarVR.activeInHierarchy == true)
+        {
+            initialLocalPosition = avatarVR.transform.localPosition;
+            initialLocalRotation = avatarVR.transform.localRotation;
+            initialLocalScale = avatarVR.transform.localScale;
+        }
+
+        else if (avatarSimulated.activeInHierarchy == true)
+        {
+            initialLocalPosition = avatarSimulated.transform.localPosition;
+            initialLocalRotation = avatarSimulated.transform.localRotation;
+            initialLocalScale = avatarSimulated.transform.localScale;
+        }
+        
     }
 
     protected virtual void OnAfterSourceChange()
