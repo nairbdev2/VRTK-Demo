@@ -13,7 +13,7 @@ Setting up Project 2 Page
 ## Alpha Preview Video
 * [Alpha Video](https://www.youtube.com/watch?v=D2FkA_nrEeQ)
 ## Final Project Video
-
+* [Final Video](https://youtu.be/Na54z8jy6jg)
 ## Resource Links Used
 
 # Nathan He
