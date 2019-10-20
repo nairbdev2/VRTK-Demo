@@ -6,9 +6,13 @@ Setting up Project 2 Page
 * iOS module
 
 ## How to Setup the Project
+* Open UnityHub and download 
 * First create a blank 3D template Unity Project 
 * Everything inside the Assets folder (on github) drag into the Unity Project Assets' Folder
 * Go to Scenes and double-click on 'CS428 P2 Alpha'
+* In the Scene you can change it to VR or Desktop by going into the Hierarchy:
+  * Unhide 'SimulatedCameraRig' and hide 'UnityXRCameraRig' for Desktop
+  * Unhide 'UnityXRCameraRig' and hide 'SimulatedCameraRig' for VR
 
 ## Alpha Preview Video
 * [Alpha Video](https://www.youtube.com/watch?v=D2FkA_nrEeQ)
