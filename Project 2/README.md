@@ -7,7 +7,7 @@ Setting up Project 2 Page
 
 ## How to Setup the Project
 * Download the github repo
-* Open UnityHub and 'Add' project named 'Project 2'
+* Open UnityHub and 'Add' the project folder named 'Project 2'
 * Double-click and launch Project (Ignore warnings if saying it's an old project)
 * Everything inside the Assets folder (on github) drag into the Unity Project Assets' Folder
 * Go to Scenes and double-click on 'CS428 P2'
