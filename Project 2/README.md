@@ -9,7 +9,6 @@ Setting up Project 2 Page
 * Download the github repo
 * Open UnityHub and 'Add' the project folder named 'Project 2'
 * Double-click and launch Project (Ignore warnings if saying it's an old project)
-* Everything inside the Assets folder (on github) drag into the Unity Project Assets' Folder
 * Go to Scenes and double-click on 'CS428 P2'
 * In the Scene you can change it to VR or Desktop by going into the Hierarchy:
   * Unhide 'SimulatedCameraRig' and hide 'UnityXRCameraRig' for Desktop
